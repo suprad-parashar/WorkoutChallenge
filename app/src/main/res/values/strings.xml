@@ -11,4 +11,15 @@
     <string name="dashboard">Dashboard</string>
     <string name="home">Home</string>
     <string name="logo">Logo</string>
+    <string name="about_creator">About Creator</string>
+    <string name="developer_pic">Developer Pic</string>
+    <string name="developer_name">Suprad S Parashar</string>
+    <string name="developer_title">A Developer, Pianist and Adventurer.</string>
+    <string name="developer_bio">I am a student majoring in Information Science and Engineering from SJB Institute of Technology, Bangalore.</string>
+    <string name="instagram_link">Instagram Link</string>
+    <string name="github_link">GitHub Link</string>
+    <string name="linkedin_image">LinkedIn Image</string>
+    <string name="challenge_link">To Take the Challenge Click Here!</string>
+    <string name="time_take">This project took 8 Hours to build spanning 3 days.</string>
+    <string name="location">Bangalore, Karnataka, India</string>
 </resources>
