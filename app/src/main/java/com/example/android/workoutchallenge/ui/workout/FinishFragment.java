@@ -34,6 +34,9 @@ public class FinishFragment extends Fragment {
 
     @Override
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
+        //Hide the Toolbar
+        Objects.requireNonNull(((AppCompatActivity) Objects.requireNonNull(getActivity())).getSupportActionBar()).hide();
+        
         //Create Variables to access Views.
         TextView durationView = view.findViewById(R.id.workout_duration_total);
         Button back = view.findViewById(R.id.dashboard);
