@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Workout Challenge</string>
+    <string name="action_settings">Settings</string>
+    <string name="workout_image">Workout Image</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="take_a_break">Take a break…</string>
+    <string name="cancel">Cancel</string>
+    <string name="chicken_out">Chicken Out</string>
+    <string name="finish">Finish</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="home">Home</string>
+    <string name="logo">Logo</string>
+</resources>

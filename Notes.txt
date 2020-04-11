@@ -1,0 +1,27 @@
+1. Responsive and Beautiful UI
+2. Should be a card based UI
+3. Use Assets
+4. Add about creator section - photo, URL to video, Info and Links and Price.
+5. Make a small video showcasing your work.
+6. 
+
+Level 1 - Beginners
+
+1. App must select 5 workouts.
+2. It must ask the number of sets the user wants to do.
+3. Every workout has a name, time and image.
+4. Completing all 5 workouts makes 1 set.
+5. Break duration is 40s
+6. Exercise duration can be custom
+7. Music shall be played during exercises. No music during break.
+8. Maybe put a timer which says 3... 2... 1... Go.
+
+Level 2 - Intermediate
+
+1. Add a random button which selects 5 exercises.
+2. Different music for every exercise.
+
+Level 3 - Advanced
+
+1. Two modes - Random and Daywise
+2. In daywise, based on day, 5 exercises are given which are fixed. User cannot change.
